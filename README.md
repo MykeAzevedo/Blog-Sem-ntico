@@ -1,2 +1,2 @@
-# Blog-Sem-ntico
-Blog Semântico
+# Blog Semântico
+Blog Semântico responsivo 
